@@ -1,0 +1,18 @@
+.src
+|
++---.component
+|    |order |
+|     |
+|     |--index.js
+|    |--OrderedFoodItems.js
+|     |--OrderForm.js
+|    |--OrderList.js
+|    |--searchFoodItems.js
+|
++---. layouts (Form,Table, Popup, Notification)
+|
++---.hooks (useForm)
+|
++---.utils(index)
+|
++---.control(Input,Button,Select)
